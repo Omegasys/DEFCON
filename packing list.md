@@ -1,9 +1,6 @@
 ============================================================
 DEF CON EDC (EVERYDAY CARRY) & FAMILY PACKING LIST
 ============================================================
-CONFRENCE SPECIFIC
-----------------------
-[ ] CONFRENCE BADGE
 
 IDENTIFICATION & MONEY
 ----------------------
@@ -90,6 +87,7 @@ PERSONAL ITEMS
 [ ] Hat
 [ ] Hoodie/light jacket
 [ ] team clothing for that conference year
+[ ] CONFRENCE BADGE
 
 HYDRATION & FOOD
 ----------------
@@ -159,6 +157,8 @@ ESSENTIALS
 [ ] Charging cable
 [ ] Comfortable shoes
 [ ] Light jacket
+[ ] team clothing for that conference year
+[ ] CONFRENCE BADGE
 
 PRINTED INFORMATION
 -------------------
