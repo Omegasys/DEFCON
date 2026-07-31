@@ -48,6 +48,8 @@ TECHNOLOGY
 [ ] USB-C to Ethernet adapter
 [ ] Ethernet cable
 [ ] Portable SSD (optional)
+[ ] rubber ducky USB
+[ ] WI-FI PINEAPPLE
 
 POWER
 -----
