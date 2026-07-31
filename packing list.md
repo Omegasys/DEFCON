@@ -88,6 +88,7 @@ PERSONAL ITEMS
 [ ] Hoodie/light jacket
 [ ] team clothing for that conference year
 [ ] CONFRENCE BADGE
+[ ] backpack
 
 HYDRATION & FOOD
 ----------------
@@ -159,6 +160,7 @@ ESSENTIALS
 [ ] Light jacket
 [ ] team clothing for that conference year
 [ ] CONFRENCE BADGE
+[ ] backpack
 
 PRINTED INFORMATION
 -------------------
