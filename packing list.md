@@ -42,6 +42,7 @@ TECHNOLOGY
 [ ] Backup USB flash drive
 [ ] SD card
 [ ] MicroSD card
+[ ] USB data blocker 
 [ ] USB-C hub
 [ ] USB-C to USB-A adapter
 [ ] USB-C to HDMI adapter
