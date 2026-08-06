@@ -3,14 +3,20 @@ DEF CON Family Packing List
 ============================================================
 DEF CON FAMILY PACKING LIST
 
+IDENTIFICATION & MONEY
+
+[ ] Government-issued ID
+[ ] Hotel room key
+[ ] Credit card (1–2 only)
+[ ] Cash ($300–600)
+[ ] Emergency contact card
+[ ] Health insurance card (optional)
+
 ESSENTIALS
 
 [ ] Government-issued ID
 [ ] Hotel room key
 [ ] Wallet
-[ ] Phone (or temporary phone)
-[ ] Portable battery pack
-[ ] Charging cable
 [ ] Comfortable walking shoes
 [ ] Hoodie/light jacket
 [ ] DEF CON team clothing
@@ -19,24 +25,47 @@ ESSENTIALS
 
 NOTE-TAKING
 
-[ ] Small notebook
+[ ] Spiral notebook
+[ ] Mechanical pencil
+[ ] Extra pencil lead
 [ ] Pen
-[ ] Highlighter (optional)
+[ ] Highlighter
+[ ] Fine-tip permanent marker
+[ ] Sticky notes
 
-PRINTED INFORMATION
+PRINTED MATERIALS
 
 [ ] DEF CON venue map
 [ ] Hotel map
-[ ] Daily schedule
-[ ] Emergency contact sheet
-[ ] Family meeting location
+[ ] Las Vegas Strip map
+[ ] Conference schedule
+[ ] Daily itinerary
+[ ] Meetup locations
+[ ] Emergency phone numbers
+[ ] Family contact sheet
 [ ] Beginner technology glossary
+
+TECHNOLOGY
+
+[ ] Temporary phone (GrapheneOS)
+[ ] ThinkPad (Qubes OS)
+[ ] Laptop charger
+[ ] Wired earbuds/headphones
+[ ] Encrypted USB flash drive
+[ ] SD card
+[ ] USB data blocker
+[ ] USB-C hub
+[ ] USB-C to USB-A adapter
 
 POWER
 
-[ ] Portable battery pack
-[ ] Charging cable
-[ ] Wall charger
+[ ] 20,000–30,000 mAh power bank
+[ ] USB-C charging cable
+[ ] USB-A charging cable
+[ ] Lightning cable (if needed)
+[ ] Multi-port wall charger
+[ ] Extension cord (optional)
+[ ] Small power strip (optional)
 
 PERSONAL ITEMS
 
@@ -44,27 +73,37 @@ PERSONAL ITEMS
 [ ] Hat
 [ ] Keys
 [ ] Watch (optional)
+[ ] Backpack
 
-FOOD & DRINK
+HYDRATION & FOOD
 
-[ ] Water bottle
+[ ] Refillable water bottle
 [ ] Electrolyte packets
-[ ] Snacks
-[ ] Protein bar
+[ ] Protein bars
 [ ] Trail mix
+[ ] Nuts
+[ ] Beef jerky
 [ ] Gum
 [ ] Mints
 
 HEALTH & HYGIENE
 
-[ ] Prescription medication
-[ ] Pain reliever
-[ ] Bandages
 [ ] Hand sanitizer
 [ ] Lip balm
 [ ] Sunscreen
 [ ] Tissues
+[ ] Pain reliever
+[ ] Bandages
+[ ] Prescription medications
+[ ] Deodorant
 [ ] Wet wipes
+
+COMFORT
+
+[ ] Comfortable walking shoes
+[ ] Extra socks
+[ ] Earplugs
+[ ] Small towel (optional)
 
 PHONE APPS
 
