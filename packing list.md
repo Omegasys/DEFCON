@@ -51,6 +51,7 @@ TECHNOLOGY
 [ ] Portable SSD (optional)
 [ ] rubber ducky USB
 [ ] WI-FI PINEAPPLE
+[ ] flipper zero
 
 POWER
 -----
