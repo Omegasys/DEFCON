@@ -7,7 +7,7 @@ IDENTIFICATION & MONEY
 [ ] Government-issued ID
 [ ] Hotel room key
 [ ] Credit card (1–2 only)
-[ ] Small amount of cash
+[ ] Small amount of cash ($300- $600)
 [ ] Emergency contact card
 [ ] Health insurance card (optional)
 
@@ -161,6 +161,7 @@ ESSENTIALS
 [ ] team clothing for that conference year
 [ ] CONFRENCE BADGE
 [ ] backpack
+[ ] Temporary phone (GrapheneOS)
 
 PRINTED INFORMATION
 -------------------
