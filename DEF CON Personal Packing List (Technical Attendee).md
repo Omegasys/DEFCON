@@ -12,6 +12,17 @@ IDENTIFICATION & MONEY
 [ ] Emergency contact card
 [ ] Health insurance card (optional)
 
+ESSENTIALS
+
+[ ] Government-issued ID
+[ ] Hotel room key
+[ ] Wallet
+[ ] Comfortable walking shoes
+[ ] Hoodie/light jacket
+[ ] DEF CON team clothing
+[ ] Conference badge
+[ ] Backpack
+
 NOTE-TAKING
 
 [ ] Spiral notebook
@@ -32,6 +43,7 @@ PRINTED MATERIALS
 [ ] Meetup locations
 [ ] Emergency phone numbers
 [ ] Family contact sheet
+[ ] Beginner technology glossary
 
 TECHNOLOGY
 
@@ -145,6 +157,14 @@ SOFTWARE (Install Before Leaving)
 [ ] Device backups completed
 [ ] Full disk encryption enabled
 [ ] System fully updated
+
+PHONE APPS
+
+[ ] Offline maps
+[ ] Camera
+[ ] Flashlight
+[ ] Notes
+[ ] Weather app
 
 SAFETY REMINDERS
 
