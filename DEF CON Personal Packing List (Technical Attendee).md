@@ -67,9 +67,9 @@ TECHNOLOGY
 * Portable SSD (optional)
 * USB Rubber Ducky (authorized use only)
 * WiFi Pineapple (authorized use only)
-* Flipper Zero (authorized use only)
+* Flipper Zero X2 (authorized use only)
 * hack-rf (authorized use only)
-* pokadachi (authorized use only)
+* pokadachi X2 (authorized use only)
 * Faraday bag X10
 
 POWER
@@ -87,7 +87,6 @@ NETWORKING
 * Business cards
 * Contact information cards
 * GitHub QR code
-* LinkedIn/Mastodon QR code (optional)
 
 TOOLS
 
@@ -130,7 +129,6 @@ COMFORT
 * Comfortable walking shoes
 * Extra socks
 * Ear plugs
-* Small towel (optional)
 * Backup sweatshirt
 * Swimsuit
 
