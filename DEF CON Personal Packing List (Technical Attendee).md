@@ -17,7 +17,8 @@ ESSENTIALS
 * Hoodie/light jacket
 * DEF CON team clothing
 * Conference badge
-* Backpack
+* Backpack for essentials 
+* dufflebag for swag and purchased items
 * Sunglasses
 * Hat
 * Watch
