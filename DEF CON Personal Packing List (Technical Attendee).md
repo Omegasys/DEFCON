@@ -68,6 +68,8 @@ TECHNOLOGY
 * USB Rubber Ducky (authorized use only)
 * WiFi Pineapple (authorized use only)
 * Flipper Zero (authorized use only)
+* hack-rf (authorized use only)
+* pokadachi (authorized use only)
 * Faraday bag X10
 
 POWER
