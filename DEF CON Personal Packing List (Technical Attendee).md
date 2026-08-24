@@ -53,12 +53,11 @@ TECHNOLOGY
 * Temporary phone (GrapheneOS)
 * ThinkPad (Qubes OS)
 * Laptop charger
-* Headphones
 * Wired earbuds/headphones
 * Encrypted USB flash drive
 * Backup encrypted USB flash drive
-* SD card
-* MicroSD card
+* SD card X2
+* MicroSD card X2
 * USB data blocker
 * USB-C hub
 * USB-C to USB-A adapter
@@ -69,7 +68,7 @@ TECHNOLOGY
 * USB Rubber Ducky (authorized use only)
 * WiFi Pineapple (authorized use only)
 * Flipper Zero (authorized use only)
-* Faraday bag
+* Faraday bag X10
 
 POWER
 
@@ -90,6 +89,7 @@ NETWORKING
 
 TOOLS
 
+* sandwitch bags
 * Small flashlight
 * Mini screwdriver kit
 * Velcro cable ties
