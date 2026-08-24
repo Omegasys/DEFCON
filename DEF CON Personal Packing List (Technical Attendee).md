@@ -71,6 +71,7 @@ TECHNOLOGY
 * hack-rf (authorized use only)
 * pokadachi X2 (authorized use only)
 * Faraday bag X10
+* meshtastic/requium nodes X4
 
 POWER
 
