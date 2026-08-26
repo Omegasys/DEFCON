@@ -1,166 +1,130 @@
-DEF CON THEMED PHONE COLLECTION
+DEFCON PHONES:
 
-PRIMARY PHONES
-===============
+Carmen Sandiego
+Case: Red
+Theme: Travel, exploration, mystery
+Purpose: Navigation, travel planning, location-based research
+Style: Red / black
 
-[ ] Carmen Sandiego
-    Case: Red
-    Theme: Travel, exploration, mystery
-    Style: Red / black
-    Concept: The "Where in the world?" phone
+James Bond
+Case: Black
+Theme: Spycraft, intelligence, covert operations
+Purpose: Secure communications, intelligence work, mission coordination
+Style: Black / silver
 
-[ ] James Bond
-    Case: Black
-    Theme: Spycraft, intelligence, covert operations
-    Style: Black / silver
-    Concept: The discreet "00" phone
+Indiana Jones
+Case: Brown
+Theme: Archaeology, exploration, adventure
+Purpose: Field research, navigation, documentation
+Style: Brown / tan
 
-[ ] Indiana Jones
-    Case: Brown
-    Theme: Archaeology, exploration, adventure
-    Style: Brown / tan
-    Concept: The expedition phone
+Lara Croft
+Case: Blue
+Theme: Exploration, archaeology, survival
+Purpose: Field research, navigation, photography
+Style: Blue / black
 
-[ ] Lara Croft
-    Case: Blue
-    Theme: Exploration, archaeology, survival
-    Style: Blue / black
-    Concept: The adventure / field phone
+Ethan Hunt
+Case: Gray
+Theme: Covert operations, espionage, missions
+Purpose: Mission coordination, communications, travel
+Style: Gray / black
 
+Q
+Case: Green
+Theme: Gadgets, engineering, technology
+Purpose: Technical work, device management, experimentation
+Style: Green / black
 
-ADDITIONAL THEMED PHONES
-========================
+Neo
+Case: Black
+Theme: Cyberpunk, computing, digital worlds
+Purpose: Programming, cybersecurity research, computing
+Style: Black / green
 
-[ ] Ethan Hunt
-    Case: Gray
-    Theme: Mission Impossible, covert operations
-    Style: Gray / black
-    Concept: The "mission" phone
+Tron
+Case: Blue
+Theme: Digital worlds, computers, futuristic technology
+Purpose: Technology experimentation, development, digital communications
+Style: Black / electric blue
 
-[ ] Q
-    Case: Green
-    Theme: Gadgets, engineering, technology
-    Style: Green / black
-    Concept: The dedicated tech / gadget phone
+The Doctor
+Case: Blue
+Theme: Exploration, science, problem solving
+Purpose: Research, navigation, emergency reference
+Style: Blue / brown
 
-[ ] Neo
-    Case: Black
-    Theme: Cyberpunk, computing, digital world
-    Style: Black / green
-    Concept: The Matrix-inspired phone
+MacGyver
+Case: Orange
+Theme: Improvisation, engineering, problem solving
+Purpose: Field engineering, troubleshooting, practical tools
+Style: Orange / black
 
-[ ] Tron
-    Case: Blue
-    Theme: Digital world, computers, futuristic technology
-    Style: Black / electric blue
-    Concept: The cyberpunk phone
+Jack Ryan
+Case: Navy
+Theme: Intelligence, analysis, investigation
+Purpose: Research, intelligence analysis, communications
+Style: Navy / gray
 
-[ ] The Doctor
-    Case: Blue
-    Theme: Exploration, science, problem solving
-    Style: Blue / brown
-    Concept: The "always prepared" phone
+Fox Mulder
+Case: Dark green
+Theme: Investigation, mysteries, unconventional research
+Purpose: Investigation, research, documentation
+Style: Dark green / black
 
-[ ] MacGyver
-    Case: Orange
-    Theme: Improvisation, engineering, problem solving
-    Style: Orange / black
-    Concept: The "make something work" phone
+Dana Scully
+Case: Burgundy
+Theme: Science, evidence, skepticism
+Purpose: Scientific research, evidence analysis, documentation
+Style: Burgundy / black
 
-[ ] Jack Ryan
-    Case: Navy
-    Theme: Intelligence, analysis, investigation
-    Style: Navy / gray
-    Concept: The intelligence-analysis phone
+Batman
+Case: Black
+Theme: Investigation, preparation, technology
+Purpose: Research, investigation, planning, technical tools
+Style: Black / dark gray
 
-[ ] Fox Mulder
-    Case: Dark green
-    Theme: Investigation, mysteries, unconventional research
-    Style: Dark green / black
-    Concept: The investigation phone
+Sherlock Holmes
+Case: Dark brown
+Theme: Investigation, deduction, intelligence
+Purpose: Research, analysis, investigation, documentation
+Style: Dark brown / black
 
-[ ] Dana Scully
-    Case: Burgundy
-    Theme: Science, evidence, skepticism
-    Style: Burgundy / black
-    Concept: The scientific-analysis phone
-
-[ ] Batman
-    Case: Black
-    Theme: Investigation, preparation, technology
-    Style: Black / dark gray
-    Concept: The "always have a plan" phone
-
-[ ] Sherlock Holmes
-    Case: Dark brown
-    Theme: Investigation, deduction, intelligence
-    Style: Brown / black
-    Concept: The analysis phone
-
-[ ] Artemis
-    Case: Silver
-    Theme: Exploration, precision, independence
-    Style: Silver / black
-    Concept: The precision field phone
+Artemis
+Case: Silver
+Theme: Exploration, precision, independence
+Purpose: Navigation, field research, precision work
+Style: Silver / black
 
 
-DEF CON UTILITY PHONES
-======================
+DEFCON UTILITY PHONES:
 
-[ ] Burner / Conference Phone
-    Case: Bright yellow
-    Purpose:
-    - Conference activities
-    - Minimal personal information
-    - Temporary accounts / services
+Burner / Conference Phone
+Case: Bright yellow
+Theme: Temporary communications, conference operations
+Purpose: Conference activities, temporary accounts, event communications
+Style: Yellow / black
 
-[ ] Navigation Phone
-    Case: Orange
-    Purpose:
-    - Maps
-    - Transit
-    - Conference schedules
-    - Emergency information
+Navigation Phone
+Case: Orange
+Theme: Travel, navigation, logistics
+Purpose: Maps, transit, conference schedules, emergency information
+Style: Orange / black
 
-[ ] Photography Phone
-    Case: White
-    Purpose:
-    - Photos
-    - Video
-    - Documentation
+Photography Phone
+Case: White
+Theme: Documentation, media, photography
+Purpose: Photos, video, documentation, media backup
+Style: White / silver
 
-[ ] Lab Phone
-    Case: Purple
-    Purpose:
-    - Testing
-    - Development
-    - Experimental applications
+Lab Phone
+Case: Purple
+Theme: Experimentation, development, technology
+Purpose: Testing, development, experimental applications
+Style: Purple / black
 
-[ ] Emergency Phone
-    Case: Red
-    Purpose:
-    - Emergency contacts
-    - Medical information
-    - Backup communications
-
-
-SUGGESTED MAIN FOUR
-===================
-
-1. Carmen Sandiego
-   Red case
-
-2. James Bond
-   Black case
-
-3. Indiana Jones
-   Brown case
-
-4. Lara Croft
-   Blue case
-
-
-CORE THEME
-==========
-
-Exploration + Intelligence + Adventure + Technology
+Emergency Phone
+Case: Red
+Theme: Safety, emergency preparedness, redundancy
+Purpose: Emergency contacts, medical information, backup communications
+Style: Red / black
