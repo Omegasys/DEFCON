@@ -96,6 +96,24 @@ Theme: Exploration, precision, independence
 Purpose: Navigation, field research, precision work
 Style: Silver / black
 
+Jason Bourne
+Case: Dark gray
+Theme: Espionage, intelligence, survival
+Purpose: Situational awareness, research, communications, travel
+Style: Dark gray / black
+
+Carmen Cortez
+Case: Pink
+Theme: Spycraft, technology, family, adventure
+Purpose: Communications, reconnaissance, navigation, field tools
+Style: Pink / black
+
+Juni Cortez
+Case: Yellow
+Theme: Spycraft, gadgets, technology, adventure
+Purpose: Technical tools, communications, experimentation, field support
+Style: Yellow / black
+
 
 DEFCON UTILITY PHONES:
 
