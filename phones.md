@@ -120,6 +120,110 @@ Theme: Espionage, adventure, technology
 Purpose: Communications, navigation, mission coordination, field tools
 Style: Green / black
 
+DEFCON PHONES:
+
+Nathan Drake
+Case: Brown
+Theme: Treasure hunting, exploration, adventure
+Purpose: Navigation, field research, photography, travel
+Style: Brown / tan / black
+
+Tony Stark
+Case: Red
+Theme: Engineering, artificial intelligence, technology
+Purpose: Development, technical research, communications, device management
+Style: Red / gold / black
+
+Shuri
+Case: Purple
+Theme: Advanced technology, science, engineering
+Purpose: Research, development, experimentation, technical work
+Style: Purple / gold / black
+
+Elliot Alderson
+Case: Black
+Theme: Cybersecurity, hacking, privacy, technology
+Purpose: Programming, security research, system administration
+Style: Black / dark green
+
+Case
+Case: Black
+Theme: Cyberpunk, hacking, information technology
+Purpose: Computing, programming, network research, digital communications
+Style: Black / neon green
+
+Motoko Kusanagi
+Case: Violet
+Theme: Cybernetics, intelligence, cybersecurity, futurism
+Purpose: Security research, network analysis, communications, technical operations
+Style: Violet / black / blue
+
+Miles Dyson
+Case: Gray
+Theme: Artificial intelligence, robotics, advanced computing
+Purpose: AI research, engineering, technical development
+Style: Gray / black / silver
+
+Rick O'Connell
+Case: Sand
+Theme: Archaeology, exploration, adventure
+Purpose: Navigation, field research, photography, travel
+Style: Sand / brown / olive
+
+Alan Grant
+Case: Dark green
+Theme: Paleontology, science, exploration
+Purpose: Scientific research, field documentation, navigation
+Style: Dark green / khaki / brown
+
+Allan Quatermain
+Case: Khaki
+Theme: Exploration, adventure, expeditions
+Purpose: Navigation, field research, expedition planning
+Style: Khaki / brown / brass
+
+Tintin
+Case: Light blue
+Theme: Investigation, journalism, exploration
+Purpose: Research, documentation, navigation, communications
+Style: Light blue / white / red
+
+Artemis Fowl
+Case: Dark blue
+Theme: Genius, technology, espionage, strategy
+Purpose: Research, technical work, planning, communications
+Style: Dark blue / black / silver
+
+Nancy Drew
+Case: Yellow
+Theme: Mystery, investigation, deduction
+Purpose: Research, documentation, investigation, communications
+Style: Yellow / blue / white
+
+Hercule Poirot
+Case: Burgundy
+Theme: Detective work, deduction, investigation
+Purpose: Research, analysis, investigation, documentation
+Style: Burgundy / black / gold
+
+Veronica Mars
+Case: Pink
+Theme: Private investigation, mystery, journalism
+Purpose: Investigation, photography, research, documentation
+Style: Pink / black / white
+
+Columbo
+Case: Brown
+Theme: Detective work, observation, investigation
+Purpose: Investigation, documentation, research, communications
+Style: Brown / beige / gray
+
+L
+Case: White
+Theme: Deduction, intelligence, investigation
+Purpose: Analysis, research, investigation, information gathering
+Style: White / black / gray
+
 
 DEFCON UTILITY PHONES:
 
