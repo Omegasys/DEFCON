@@ -120,8 +120,6 @@ Theme: Espionage, adventure, technology
 Purpose: Communications, navigation, mission coordination, field tools
 Style: Green / black
 
-DEFCON PHONES:
-
 Nathan Drake
 Case: Brown
 Theme: Treasure hunting, exploration, adventure
@@ -151,6 +149,18 @@ Case: Black
 Theme: Cyberpunk, hacking, information technology
 Purpose: Computing, programming, network research, digital communications
 Style: Black / neon green
+
+Molly Millions
+Case: Silver
+Theme: Cyberpunk, espionage, combat, street survival
+Purpose: Communications, navigation, information gathering, field operations
+Style: Silver / black / red
+
+Johnny Mnemonic
+Case: Black
+Theme: Cyberpunk, data smuggling, technology, information security
+Purpose: Data storage, communications, digital information management
+Style: Black / blue / neon
 
 Motoko Kusanagi
 Case: Violet
