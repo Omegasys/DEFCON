@@ -114,6 +114,12 @@ Theme: Spycraft, gadgets, technology, adventure
 Purpose: Technical tools, communications, experimentation, field support
 Style: Yellow / black
 
+Kim Possible
+Case: Green
+Theme: Espionage, adventure, technology
+Purpose: Communications, navigation, mission coordination, field tools
+Style: Green / black
+
 
 DEFCON UTILITY PHONES:
 
