@@ -30,7 +30,6 @@ NOTE-TAKING
 * Mechanical pencil
 * Extra pencil lead
 * Pens
-* Pencils
 * Highlighter
 * Sharpies
 * Fine-tip permanent marker
