@@ -17,7 +17,7 @@ ESSENTIALS
 * Conference badge
 * Backpack for essentials 
 * shopping bag for swag and purchased items
-* Sunglasses
+* Sunglasses with infrared reflective layer and infrared absorptive layer.
 * Hat
 * Keys
 
@@ -28,7 +28,7 @@ NOTE-TAKING
 * Extra pencil lead
 * Pens
 * Highlighter
-* Sharpies
+* Sharpies (find a green) 
 * Fine-tip permanent marker
 * Sticky notes
 
@@ -37,11 +37,11 @@ PRINTED MATERIALS
 * DEF CON venue map
 * Hotel map
 * Las Vegas Strip map
+     * Meetup locations
 * Conference schedule
 * Daily itinerary
-* Meetup locations
-* Emergency phone numbers
 * Family contact sheet
+     * Emergency phone numbers
 
 TECHNOLOGY
 
@@ -78,8 +78,7 @@ POWER
 
 NETWORKING
 
-* Business cards
-* Contact information cards
+* Business card
 * GitHub QR code
 
 TOOLS
