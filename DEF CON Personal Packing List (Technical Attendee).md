@@ -50,12 +50,11 @@ TECHNOLOGY
 * Laptop charger
 * Wired earbuds/headphones
 * Encrypted USB flash drive
-* Backup encrypted USB flash drive
 * SD card X2 (32/64 GB)
 * MicroSD card X2 (32/64 GB) 
 * USB data blocker
 * USB-C hub
-* USB-C to USB-A adapter
+* USB-C to USB-A adapter (X5, and in reverse) 
 * USB-C to HDMI adapter
 * USB-C to Ethernet adapter
 * Ethernet cable
