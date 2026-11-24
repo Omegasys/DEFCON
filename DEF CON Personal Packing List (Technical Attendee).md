@@ -2,13 +2,11 @@ DEF CON PERSONAL PACKING LIST
 
 IDENTIFICATION & MONEY
 
-* Government-issued ID
 * Hotel room key
 * Wallet
 * Credit card (1–2 only)
 * Cash ($300–600)
 * Emergency contact card
-* Health insurance card (optional)
 
 ESSENTIALS
 
@@ -18,10 +16,9 @@ ESSENTIALS
 * DEF CON team clothing
 * Conference badge
 * Backpack for essentials 
-* dufflebag for swag and purchased items
+* shopping bag for swag and purchased items
 * Sunglasses
 * Hat
-* Watch
 * Keys
 
 NOTE-TAKING
@@ -45,7 +42,6 @@ PRINTED MATERIALS
 * Meetup locations
 * Emergency phone numbers
 * Family contact sheet
-* Beginner technology glossary
 
 TECHNOLOGY
 
@@ -55,8 +51,8 @@ TECHNOLOGY
 * Wired earbuds/headphones
 * Encrypted USB flash drive
 * Backup encrypted USB flash drive
-* SD card X2
-* MicroSD card X2
+* SD card X2 (32/64 GB)
+* MicroSD card X2 (32/64 GB) 
 * USB data blocker
 * USB-C hub
 * USB-C to USB-A adapter
@@ -66,9 +62,9 @@ TECHNOLOGY
 * Portable SSD (optional)
 * USB Rubber Ducky (authorized use only)
 * WiFi Pineapple (authorized use only)
-* Flipper Zero X2 (authorized use only)
+* Flipper Zero (authorized use only)
 * hack-rf (authorized use only)
-* pokadachi X2 (authorized use only)
+* ponadachi (authorized use only)
 * Faraday bag X10
 * meshtastic/requium nodes X4
 
@@ -76,7 +72,6 @@ POWER
 
 * 20,000–30,000 mAh power bank
 * USB-C charging cable
-* USB-A charging cable
 * Lightning cable (if needed)
 * Multi-port wall charger
 * Power strip
@@ -109,6 +104,7 @@ HYDRATION & FOOD
 * Beef jerky
 * Gum
 * Mints
+red vine licorice 
 * Cough drops
 
 HEALTH & HYGIENE
