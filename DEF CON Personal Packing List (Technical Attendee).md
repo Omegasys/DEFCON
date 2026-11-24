@@ -52,7 +52,7 @@ TECHNOLOGY
 * Encrypted USB flash drive
 * SD card X2 (32/64 GB)
 * MicroSD card X2 (32/64 GB) 
-* USB data blocker
+* USB data blocker (X5, usb-a, usb-c) 
 * USB-C hub
 * USB-C to USB-A adapter (X5, and in reverse) 
 * USB-C to HDMI adapter
@@ -85,6 +85,7 @@ TOOLS
 
 * sandwitch bags
 * Small flashlight
+* normal flashlight
 * Mini screwdriver kit
 * Velcro cable ties
 * Zip ties
@@ -102,7 +103,7 @@ HYDRATION & FOOD
 * Beef jerky
 * Gum
 * Mints
-red vine licorice 
+* red vine licorice 
 * Cough drops
 
 HEALTH & HYGIENE
